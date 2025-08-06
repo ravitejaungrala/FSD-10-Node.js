@@ -1,0 +1,17 @@
+{
+  "name": "raviteja",
+  "version": "1.0.0",
+  "description": "projects",
+  "keywords": [
+    "node.js",
+    "mongodb"
+  ],
+  "license": "ISC",
+  "author": "ravitej",
+  "type": "commonjs",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
